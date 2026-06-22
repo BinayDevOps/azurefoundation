@@ -1,2 +1,2 @@
 ##
-Added resource group block
+Added resource group block and provider block.
